@@ -7,6 +7,9 @@
 .my_bkg_color_freelancer_footer1{
     background-color: rgb(63, 83, 107);
 }
-*{
+body{
     color:white;
+}
+.my_txt_color_black{
+    color:black;
 }
