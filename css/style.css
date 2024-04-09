@@ -46,3 +46,12 @@ body{
     border:none;
     resize:none;
 }
+a{
+    color:white;
+}
+.navbar-toggler-icon .fa-bars{
+    color:grey;
+}
+.navbar-toggler{
+    border:1px solid white;
+}
