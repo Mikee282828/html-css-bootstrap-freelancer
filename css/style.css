@@ -13,3 +13,14 @@ body{
 .my_txt_color_black{
     color:black;
 }
+.my_hr_star_white,.my_hr_star_black{
+    width: 6rem;
+    opacity: 1;
+    margin:0;
+    line-height: 100%;
+    background-color: white;
+    display:inline-block;
+}
+.my_hr_star_black{
+    background-color: black;
+}
