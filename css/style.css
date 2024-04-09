@@ -24,3 +24,11 @@ body{
 .my_hr_star_black{
     background-color: black;
 }
+.my_btn{
+    background-color: rgb(88, 185, 157);
+    border:white solid 1px;
+    color:white;
+    padding:0.5rem 1rem;
+    border-radius: 0.5rem;
+
+}
