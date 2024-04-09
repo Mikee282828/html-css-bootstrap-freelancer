@@ -55,3 +55,6 @@ a{
 .navbar-toggler{
     border:1px solid white;
 }
+a.nav-link{
+    color:white;
+}
